@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishwak-Balaji
-- 👀 I’m interested in codinig
+- 👀 I’m interested in codining
 - 🌱 I’m currently learning java
 - 📫 How to reach me - vishwakbalaji2304@gmail.com
 - ⚡ Fun fact: nothing much
