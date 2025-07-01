@@ -18,13 +18,13 @@
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishwakbalaji" target="blank">
+  <a href="https://www.linkedin.com/in/vishwakbalaji2304/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/vishwakbalaji" target="blank">
+  <a href="https://leetcode.com/u/Vishwakbalaji_T/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/vishwakbalaji/profile" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/vishwak/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
   </a>
 </p>
