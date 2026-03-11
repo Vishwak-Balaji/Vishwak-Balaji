@@ -4,9 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishwakbalaji&label=Profile%20views&color=0e75b6&style=flat" alt="vishwakbalaji" />
-</p>
+
 
 - 💬 Ask me about **Java, SQL, HTML, CSS, JavaScript, ServiceNow**
 
