@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VISHWAK BALAJI T</h1>
-<h3 align="center">A Java Developer | Frontend Enthusiast | ServiceNow Developer</h3>
+<h3 align="center">A Java Developer | ServiceNow - Certified System Administrator</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
@@ -7,8 +7,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vishwakbalaji&label=Profile%20views&color=0e75b6&style=flat" alt="vishwakbalaji" />
 </p>
-
-- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, SQL, HTML, CSS, JavaScript, ServiceNow**
 
