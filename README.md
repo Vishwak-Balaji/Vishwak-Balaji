@@ -54,6 +54,19 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakbalaji&layout=compact&theme=radical" alt="top-langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwakbalaji&show_icons=true&theme=radical" alt="github-stats" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakbalaji&layout=compact&theme=radical" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwakbalaji&show_icons=true&theme=radical" />
+</p>
+
+<br><br>
+
+<h3 align="left">🔥 GitHub Streak (Recent Activity)</h3>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=vishwakbalaji&theme=radical&hide_border=false" />
+</p>
