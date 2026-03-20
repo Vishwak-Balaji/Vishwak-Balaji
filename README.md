@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm VISHWAK BALAJI T</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishwak-Balaji&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h3 align="center">A Java Developer | ServiceNow - Certified System Administrator</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -56,3 +61,11 @@
 <h3 align="left">📈 Contribution Graph</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwak-Balaji&theme=radical" />
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishwak-Balaji/Vishwak-Balaji/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
