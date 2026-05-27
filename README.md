@@ -42,20 +42,20 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwak-Balaji&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwak-Balaji&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishwak-Balaji&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwak-Balaji&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <br><br>
 
 <h3 align="left">🔥 GitHub Streak (Recent Activity)</h3>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Vishwak-Balaji&theme=radical&hide_border=false" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vishwak-Balaji&theme=radical" />
 </p>
 
 <h3 align="left">📈 Contribution Graph</h3>
@@ -63,5 +63,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwak-Balaji&theme=radical" />
 
 ---
-
-
